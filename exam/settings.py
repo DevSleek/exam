@@ -40,6 +40,9 @@ INSTALLED_APPS = [
 
     # local apps
     'enterprise',
+    'main',
+
+    # 3-party packages
     'rest_framework'
 ]
 
